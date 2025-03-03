@@ -72,11 +72,5 @@ git clone https://github.com/your-username/Fitness-Wellness-Project-Management.g
 - Implement recommendations and monitor KPIs.
 - Adjust strategies based on risk assessments and participant feedback.
 
-## 👥 Contributors
-- Hannah Bujold  
-- Denise Marie Francisco  
-- Prajwal Nagaraj  
-- Aditya Kumar Shrivastav  
-
 ## 📄 License
 MIT License
